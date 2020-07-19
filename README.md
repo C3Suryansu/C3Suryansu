@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning ... Reinforcement Learning and Deep Reinforcement Learning
 - 👯 I’m looking to collaborate on ... Research papers on NLP/CV/DL/RL and related fields.
-- 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/suryansu-dash-a71b9712b/) ||  [Gmail](suryansudash@gmail.com) || [Twitter](https://twitter.com/SuryansuDash)
+- 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/suryansu-dash-a71b9712b/) ||  [Gmail](mailto:suryansudash@gmail.com) || [Twitter](https://twitter.com/SuryansuDash)
 
 <!--
 **C3Suryansu/C3Suryansu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
