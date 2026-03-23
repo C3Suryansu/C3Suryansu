@@ -2,7 +2,7 @@
 #### I am just a guy who is interested in the way of the world 🌎. Science 🔬 interests me as much as coding 👨‍💻. I thrive to work on the intersection of technology and science so as to advance both the fields with each other's help. Currently shaping AI at Newton School of Technology.
 - 🌱 I’m currently learning ... Multi-Agent AI orchestration.
 - 👯 I’m looking to collaborate on ... LLM explanability and comprehension.
-- 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/suryansu-dash-a71b9712b/) ||  [Gmail](mailto:suryansudash@gmail.com) || [Twitter]([https://twitter.com/SuryansuDash](https://x.com/SuryansuDash05))
+- 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/suryansu-dash-a71b9712b/) ||  [Gmail](mailto:suryansudash@gmail.com) || [Twitter](https://x.com/SuryansuDash05)
 
 <!--
 **C3Suryansu/C3Suryansu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
